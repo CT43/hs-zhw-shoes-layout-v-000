@@ -37,6 +37,6 @@
 }
 
 .col-3 {
-  column-gap: normal;
+  column-gap: 5px;
 
 }
