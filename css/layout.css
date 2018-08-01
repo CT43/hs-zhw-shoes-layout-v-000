@@ -33,7 +33,7 @@
 .col-2 {
   float: left;
   width: 66.66%;
-  column-gap: normal;
+  column-gap: 5px;
 }
 
 .col-3 {
