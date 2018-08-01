@@ -27,16 +27,17 @@
 .col-1 {
   float: left;
   width: 33.33%;
-  column-gap: 5px;
+  margin-left: 2%;
 }
 
-.col-2 {
+.col-1 {
   float: left;
-  width: 66.66%;
-  column-gap: 5px;
+  width: 33.33%;
+  margin-left: 2%;
 }
 
-.col-3 {
-  column-gap: 5px;
-
+.col-1 {
+  float: left;
+  width: 33.33%;
+  margin-left: 2%;
 }
