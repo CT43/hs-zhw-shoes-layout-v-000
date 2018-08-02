@@ -24,6 +24,10 @@
 
 /* Posititoning Classes */
 
+[class*="col-"]:first-child {
+    margin-left: 0;
+  }
+
 .col-1 {
   float: left;
   width: 32%;
