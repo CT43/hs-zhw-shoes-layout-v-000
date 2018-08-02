@@ -24,9 +24,9 @@
 
 /* Posititoning Classes */
 
-[class*="col-"]:first-child {
-    margin-left: 0;
-  }
+#first-col {
+  margin-left: 0;
+}
 
 .col-1 {
   float: left;
