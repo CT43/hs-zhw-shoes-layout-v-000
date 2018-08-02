@@ -39,3 +39,8 @@
 .col-3 {
   background: #eee;
 }
+
+.new-line {
+  clear:both;
+  margin-bottom: 5px;
+}
