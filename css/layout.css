@@ -28,16 +28,19 @@
   float: left;
   width: 32%;
   background: #eee;
+  margin-left: 2%;
 }
 
 .col-2 {
   float: left;
   width: 66%;
   background: #eee;
+  margin-left: 2%;
 }
 
 .col-3 {
   background: #eee;
+  margin-left: 2%;
 }
 
 .new-line {
